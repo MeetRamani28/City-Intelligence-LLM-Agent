@@ -1,0 +1,6 @@
+python-dotenv
+langchain-core
+langchain-mistralai
+tavily-python
+requests
+rich
