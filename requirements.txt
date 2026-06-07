@@ -4,3 +4,5 @@ langchain-mistralai
 tavily-python
 requests
 rich
+langchain 
+langchain-community
